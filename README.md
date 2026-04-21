@@ -55,7 +55,7 @@
 
 | Project | Tech | Live |
 |---------|------|------|
-| SaaS Landing Page | Next.js, Tailwind | [Live ↗](https://vercel.com) |
+| SaaS Landing Page | Next.js, Tailwind | [Live ↗](https://saas-landing-page-flyonui.vercel.app/#features]) |
 | Django REST API | Django, PostgreSQL | Coming Soon |
 
 ---
